@@ -1,102 +1,25 @@
 {
   "table1": {
     "row1": ["", "Jun 2018", "Sep 2018", "Mar 2019", "Jun 2019", "Sep 2019"],
-    "row2": [
-      "\n          \n          \n            Sales\n          \n          \n        ",
-      "13,343",
-      "13,276",
-      "14,375",
-      "14,596",
-      "15,530"
-    ],
-    "row3": [
-      "\n          \n          \n            Expenses\n          \n          \n        ",
-      "997",
-      "286",
-      "693",
-      "610",
-      "1,760"
-    ],
+    "row2": ["Sales", "13,343", "13,276", "14,375", "14,596", "15,530"],
+    "row3": ["Expenses", "997", "286", "693", "610", "1,760"],
     "row4": [
-      "\n          \n          Operating Profit\n          \n        ",
+      "Operating Profit",
       "12,346",
       "12,990",
       "13,682",
       "13,986",
       "13,770"
     ],
-    "row5": [
-      "\n          \n          OPM %\n          \n        ",
-      "93%",
-      "98%",
-      "95%",
-      "96%",
-      "89%"
-    ],
-    "row6": [
-      "\n          \n          Other Income\n          \n        ",
-      "4",
-      "18",
-      "48",
-      "20",
-      "8"
-    ],
-    "row7": [
-      "\n          \n          Interest\n          \n        ",
-      "8,159",
-      "8,450",
-      "9,140",
-      "9,938",
-      "10,153"
-    ],
-    "row8": [
-      "\n          \n          Depreciation\n          \n        ",
-      "3",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "row9": [
-      "\n          \n          Profit before tax\n          \n        ",
-      "4,187",
-      "4,554",
-      "4,585",
-      "4,063",
-      "3,620"
-    ],
-    "row10": [
-      "\n          \n          Tax %\n          \n        ",
-      "32%",
-      "45%",
-      "26%",
-      "29%",
-      "31%"
-    ],
-    "row11": [
-      "\n          \n          Net Profit\n          \n        ",
-      "2,167",
-      "1,688",
-      "2,802",
-      "2,185",
-      "1,871"
-    ],
-    "row12": [
-      "\n          \n          EPS in Rs\n          \n        ",
-      "8.21",
-      "6.39",
-      "10.61",
-      "8.28",
-      "7.08"
-    ],
-    "row13": [
-      "",
-      "\n          \n              Notes\n          \n        ",
-      "\n          \n              Notes\n          \n        ",
-      "\n          \n              Notes\n          \n        ",
-      "\n          \n              Notes\n          \n        ",
-      "\n          \n              Notes\n          \n        "
-    ]
+    "row5": ["OPM %", "93%", "98%", "95%", "96%", "89%"],
+    "row6": ["Other Income", "4", "18", "48", "20", "8"],
+    "row7": ["Interest", "8,159", "8,450", "9,140", "9,938", "10,153"],
+    "row8": ["Depreciation", "3", "3", "4", "5", "6"],
+    "row9": ["Profit before tax", "4,187", "4,554", "4,585", "4,063", "3,620"],
+    "row10": ["Tax %", "32%", "45%", "26%", "29%", "31%"],
+    "row11": ["Net Profit", "2,167", "1,688", "2,802", "2,185", "1,871"],
+    "row12": ["EPS in Rs", "8.21", "6.39", "10.61", "8.28", "7.08"],
+    "row13": ["", "Notes", "Notes", "Notes", "Notes", "Notes"]
   },
   "table2": {
     "row1": [
@@ -115,7 +38,7 @@
       "Mar 2019"
     ],
     "row2": [
-      "\n          \n          \n            Sales\n          \n          \n        ",
+      "Sales",
       "5,042",
       "6,586",
       "8,050",
@@ -130,7 +53,7 @@
       "54,114"
     ],
     "row3": [
-      "\n          \n          \n            Expenses\n          \n          \n        ",
+      "Expenses",
       "85",
       "138",
       "130",
@@ -145,7 +68,7 @@
       "1,701"
     ],
     "row4": [
-      "\n          \n          Operating Profit\n          \n        ",
+      "Operating Profit",
       "4,957",
       "6,448",
       "7,920",
@@ -160,7 +83,7 @@
       "52,413"
     ],
     "row5": [
-      "\n          \n          OPM %\n          \n        ",
+      "OPM %",
       "98%",
       "98%",
       "98%",
@@ -175,7 +98,7 @@
       "97%"
     ],
     "row6": [
-      "\n          \n          Other Income\n          \n        ",
+      "Other Income",
       "18",
       "4",
       "73",
@@ -190,7 +113,7 @@
       "86"
     ],
     "row7": [
-      "\n          \n          Interest\n          \n        ",
+      "Interest",
       "3,182",
       "4,436",
       "4,943",
@@ -205,7 +128,7 @@
       "34,621"
     ],
     "row8": [
-      "\n          \n          Depreciation\n          \n        ",
+      "Depreciation",
       "5",
       "4",
       "4",
@@ -220,7 +143,7 @@
       "15"
     ],
     "row9": [
-      "\n          \n          Profit before tax\n          \n        ",
+      "Profit before tax",
       "1,788",
       "2,012",
       "3,046",
@@ -235,7 +158,7 @@
       "17,862"
     ],
     "row10": [
-      "\n          \n          Tax %\n          \n        ",
+      "Tax %",
       "32%",
       "27%",
       "22%",
@@ -250,7 +173,7 @@
       "29%"
     ],
     "row11": [
-      "\n          \n          Net Profit\n          \n        ",
+      "Net Profit",
       "1,207",
       "1,470",
       "2,378",
@@ -265,7 +188,7 @@
       "9,921"
     ],
     "row12": [
-      "\n          \n          EPS in Rs\n          \n        ",
+      "EPS in Rs",
       "4.96",
       "6.06",
       "9.98",
@@ -280,7 +203,7 @@
       "37.58"
     ],
     "row13": [
-      "\n          \n          Dividend Payout %\n          \n        ",
+      "Dividend Payout %",
       "33%",
       "31%",
       "22%",
@@ -341,7 +264,7 @@
       "Sep 2019"
     ],
     "row2": [
-      "\n          \n          \n            Share Capital\n          \n          \n        ",
+      "Share Capital",
       "1,148",
       "1,148",
       "1,148",
@@ -357,7 +280,7 @@
       "2,640"
     ],
     "row3": [
-      "\n          \n          Reserves\n          \n        ",
+      "Reserves",
       "9,249",
       "10,569",
       "12,807",
@@ -373,7 +296,7 @@
       "47,989"
     ],
     "row4": [
-      "\n          \n          Borrowings\n          \n        ",
+      "Borrowings",
       "40,648",
       "52,160",
       "67,108",
@@ -389,7 +312,7 @@
       "553,850"
     ],
     "row5": [
-      "\n          \n          \n            Other Liabilities\n          \n          \n        ",
+      "Other Liabilities",
       "3,727",
       "4,437",
       "2,468",
@@ -405,7 +328,7 @@
       "43,676"
     ],
     "row6": [
-      "\n          \n          Total Liabilities\n          \n        ",
+      "Total Liabilities",
       "54,772",
       "68,313",
       "83,532",
@@ -421,7 +344,7 @@
       "648,155"
     ],
     "row7": [
-      "\n          \n          \n            Fixed Assets\n          \n          \n        ",
+      "Fixed Assets",
       "77",
       "75",
       "73",
@@ -437,7 +360,7 @@
       "241"
     ],
     "row8": [
-      "\n          \n          CWIP\n          \n        ",
+      "CWIP",
       "0",
       "0",
       "2",
@@ -453,7 +376,7 @@
       "249"
     ],
     "row9": [
-      "\n          \n          Investments\n          \n        ",
+      "Investments",
       "66",
       "35",
       "30",
@@ -469,7 +392,7 @@
       "4,517"
     ],
     "row10": [
-      "\n          \n          \n            Other Assets\n          \n          \n        ",
+      "Other Assets",
       "54,629",
       "68,203",
       "83,427",
@@ -485,7 +408,7 @@
       "643,147"
     ],
     "row11": [
-      "\n          \n          Total Assets\n          \n        ",
+      "Total Assets",
       "54,772",
       "68,313",
       "83,532",
@@ -518,7 +441,7 @@
       "Mar 2019"
     ],
     "row2": [
-      "\n          \n          \n            Cash from Operating Activity\n          \n          \n        ",
+      "Cash from Operating Activity",
       "-6,261",
       "-10,732",
       "-13,405",
@@ -533,7 +456,7 @@
       "-80,253"
     ],
     "row3": [
-      "\n          \n          \n            Cash from Investing Activity\n          \n          \n        ",
+      "Cash from Investing Activity",
       "-8",
       "27",
       "9",
@@ -548,7 +471,7 @@
       "-13,463"
     ],
     "row4": [
-      "\n          \n          \n            Cash from Financing Activity\n          \n          \n        ",
+      "Cash from Financing Activity",
       "6,436",
       "10,450",
       "14,437",
@@ -563,7 +486,7 @@
       "93,616"
     ],
     "row5": [
-      "\n          \n          Net Cash Flow\n          \n        ",
+      "Net Cash Flow",
       "167",
       "-255",
       "1,041",
@@ -595,7 +518,7 @@
       "Mar 2019"
     ],
     "row2": [
-      "\n          \n          ROCE %\n          \n        ",
+      "ROCE %",
       "",
       "11%",
       "11%",
@@ -610,7 +533,7 @@
       "10%"
     ],
     "row3": [
-      "\n          \n          Debtor Days\n          \n        ",
+      "Debtor Days",
       "0",
       "0",
       "0",
@@ -625,7 +548,7 @@
       "1"
     ],
     "row4": [
-      "\n          \n          Inventory Turnover\n          \n        ",
+      "Inventory Turnover",
       "",
       "",
       "",
