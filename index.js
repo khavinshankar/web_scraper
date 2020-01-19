@@ -2,13 +2,14 @@ const request = require("request-promise");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
-const url = "https://www.screener.in/company/PFC/consolidated/";
+const url = "https://money.rediff.com/companies";
 options = {
-  include: [],
+  include: [2, 3],
   exclude: [],
-  format: "json", // json and csv
+  format: "csv", // json and csv
   file: "single", // single, multiple and both
-  reverse: false
+  reverse: false,
+  link: true
 };
 
 main(url);
@@ -40,6 +41,18 @@ function scrape($, options) {
                   .text()
                   .trim()
               );
+              if (
+                $(element)
+                  .find("[href]")
+                  .attr("href") &&
+                options.link
+              ) {
+                rw.push(
+                  $(element)
+                    .find("[href]")
+                    .attr("href")
+                );
+              }
             });
           tbl.push(rw);
         });
