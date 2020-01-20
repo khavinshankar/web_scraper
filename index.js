@@ -6,10 +6,11 @@ const url = "https://money.rediff.com/companies";
 options = {
   include: [2, 3],
   exclude: [],
-  format: "csv", // json and csv
+  format: "json", // json and csv
   file: "single", // single, multiple and both
   reverse: false,
-  link: true
+  link: false,
+  header: 0
 };
 
 main(url);
@@ -68,16 +69,27 @@ function scrape($, options) {
   if (options.format === "csv") {
     save_as_csv(pg, options.file);
   } else {
-    save_as_json(pg, options.file);
+    save_as_json(pg, options.file, options.header);
   }
 }
 
-function save_as_json(data, file) {
+function save_as_json(data, file, header) {
   const page = {};
   for (let i = 0; i < data.length; i++) {
     let table = {};
     for (let j = 0; j < data[i].length; j++) {
-      table[`row${j + 1}`] = data[i][j];
+      if (header || header === 0) {
+        if (header < data[i].length) {
+          const head = data[i][j].splice(header, 1);
+          if (head) {
+            table[`${head}`] = data[i][j];
+          } else {
+            table[`row${j + 1}`] = data[i][j];
+          }
+        }
+      } else {
+        table[`row${j + 1}`] = data[i][j];
+      }
     }
     if (file !== "single") {
       fs.writeFileSync(

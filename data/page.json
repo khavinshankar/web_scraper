@@ -1,1208 +1,208 @@
 {
   "table1": {
-    "row1": ["Company", "Code", "Group"],
-    "row2": [
-      "20 Microns Ltd.",
-      "//money.rediff.com/companies/20-Microns-Ltd/15110088",
-      "533022",
-      "B"
-    ],
-    "row3": [
-      "3i Infotech Ltd.",
-      "//money.rediff.com/companies/3i-Infotech-Ltd/13190098",
-      "532628",
-      "B"
-    ],
-    "row4": [
-      "3M India Ltd.",
-      "//money.rediff.com/companies/3M-India-Ltd/17010019",
-      "523395",
-      "A"
-    ],
-    "row5": [
-      "3P Land Holdings Ltd.",
-      "//money.rediff.com/companies/3P-Land-Holdings-Ltd/11070110",
-      "516092",
-      "B"
-    ],
-    "row6": [
-      "52 Weeks Entertainment Ltd.",
-      "//money.rediff.com/companies/52-Weeks-Entertainment-Ltd/11110067",
-      "531925",
-      "XT"
-    ],
-    "row7": [
-      "5Paisa Capital Ltd.",
-      "//money.rediff.com/companies/5Paisa-Capital-Ltd/14010689",
-      "540776",
-      "B"
-    ],
-    "row8": [
-      "63 Moons Technologies Ltd.",
-      "//money.rediff.com/companies/63-Moons-Technologies-Ltd/13030007",
-      "526881",
-      "B"
-    ],
-    "row9": [
-      "7NR Retail Ltd.",
-      "//money.rediff.com/companies/7NR-Retail-Ltd/16070229",
-      "540615",
-      "B"
-    ],
-    "row10": [
-      "7Seas Entertainment Ltd.",
-      "//money.rediff.com/companies/7Seas-Entertainment-Ltd/13191556",
-      "540874",
-      "Z"
-    ],
-    "row11": [
-      "8K Miles Software Services Ltd.",
-      "//money.rediff.com/companies/8K-Miles-Software-Services-Ltd/17020538",
-      "512161",
-      "Z"
-    ],
-    "row12": [
-      "A & M Febcon Ltd.",
-      "//money.rediff.com/companies/A-M-Febcon-Ltd/15990123",
-      "540697",
-      "M"
-    ],
-    "row13": [
-      "A F Enterprises Ltd.",
-      "//money.rediff.com/companies/A-F-Enterprises-Ltd/17027792",
-      "538351",
-      "XT"
-    ],
-    "row14": [
-      "A Infrastructure Ltd.",
-      "//money.rediff.com/companies/A-Infrastructure-Ltd/11520050",
-      "539620",
-      "XT"
-    ],
-    "row15": [
-      "A-1 Acid Ltd.",
-      "//money.rediff.com/companies/A-1-Acid-Ltd/12080099",
-      "542012",
-      "M"
-    ],
-    "row16": [
-      "A2Z Infra Engineering Ltd.",
-      "//money.rediff.com/companies/A2Z-Infra-Engineering-Ltd/13520357",
-      "533292",
-      "B"
-    ],
-    "row17": [
-      "Aadhaar Ventures India Ltd.",
-      "//money.rediff.com/companies/Aadhaar-Ventures-India-Ltd/14060464",
-      "531611",
-      "XT"
-    ],
-    "row18": [
-      "Aadi Industries Ltd.",
-      "//money.rediff.com/companies/Aadi-Industries-Ltd/14060237",
-      "530027",
-      "Z"
-    ],
-    "row19": [
-      "Aagam Capital Ltd.",
-      "//money.rediff.com/companies/Aagam-Capital-Ltd/14060502",
-      "531866",
-      "XD"
-    ],
-    "row20": [
-      "Aananda Lakshmi Spinning Mills Ltd.",
-      "//money.rediff.com/companies/Aananda-Lakshmi-Spinning-Mills-Ltd/16030267",
-      "539096",
-      "XT"
-    ],
-    "row21": [
-      "Aanchal Ispat Ltd.",
-      "//money.rediff.com/companies/Aanchal-Ispat-Ltd/15510501",
-      "538812",
-      "B"
-    ],
-    "row22": [
-      "AAR Commercial Company Ltd.",
-      "//money.rediff.com/companies/AAR-Commercial-Company-Ltd/17027615",
-      "539632",
-      "XT"
-    ],
-    "row23": [
-      "Aar Shyam India Investment Company Ltd.",
-      "//money.rediff.com/companies/Aar-Shyam-India-Investment-Company-Ltd/14090664",
-      "542377",
-      "XT"
-    ],
-    "row24": [
-      "Aarcon Facilities Ltd.",
-      "//money.rediff.com/companies/Aarcon-Facilities-Ltd/14010185",
-      "532024",
-      "P"
-    ],
-    "row25": [
-      "Aarey Drugs & Pharmaceuticals Ltd.",
-      "//money.rediff.com/companies/Aarey-Drugs-Pharmaceuticals-Ltd/12540084",
-      "524412",
-      "X"
-    ],
-    "row26": [
-      "Aarnav Fashions Ltd.",
-      "//money.rediff.com/companies/Aarnav-Fashions-Ltd/14094658",
-      "539562",
-      "XT"
-    ],
-    "row27": [
-      "Aartech Solonics Ltd.",
-      "//money.rediff.com/companies/Aartech-Solonics-Ltd/13150268",
-      "542580",
-      "M"
-    ],
-    "row28": [
-      "Aarti Drugs Ltd.",
-      "//money.rediff.com/companies/Aarti-Drugs-Ltd/12540082",
-      "524348",
-      "B"
-    ],
-    "row29": [
-      "Aarti Industries Ltd.",
-      "//money.rediff.com/companies/Aarti-Industries-Ltd/12070021",
-      "524208",
-      "A"
-    ],
-    "row30": [
-      "Aarv Infratel Ltd.",
-      "//money.rediff.com/companies/Aarv-Infratel-Ltd/17020295",
-      "526488",
-      "P"
-    ],
-    "row31": [
-      "Aarvee Denims and Exports Ltd.",
-      "//money.rediff.com/companies/Aarvee-Denims-and-Exports-Ltd/16110001",
-      "514274",
-      "B"
-    ],
-    "row32": [
-      "Aaswa Trading & Exports Ltd.",
-      "//money.rediff.com/companies/Aaswa-Trading-Exports-Ltd/16610134",
-      "512038",
-      "P"
-    ],
-    "row33": [
-      "Aavas Financiers Ltd.",
-      "//money.rediff.com/companies/Aavas-Financiers-Ltd/14080119",
-      "541988",
-      "A"
-    ],
-    "row34": [
-      "Aayush Food & Herbs Ltd.",
-      "//money.rediff.com/companies/Aayush-Food-Herbs-Ltd/11290074",
-      "539528",
-      "X"
-    ],
-    "row35": [
-      "Abacus Computers Ltd.",
-      "//money.rediff.com/companies/Abacus-Computers-Ltd/13010001",
-      "508987",
-      "Z"
-    ],
-    "row36": [
-      "Aban Offshore Ltd.",
-      "//money.rediff.com/companies/Aban-Offshore-Ltd/15120001",
-      "523204",
-      "B"
-    ],
-    "row37": [
-      "ABB India Ltd.",
-      "//money.rediff.com/companies/ABB-India-Ltd/13130003",
-      "500002",
-      "B"
-    ],
-    "row38": [
-      "Abbott India Ltd.",
-      "//money.rediff.com/companies/Abbott-India-Ltd/12540008",
-      "500488",
-      "A"
-    ],
-    "row39": [
-      "ABC Bearings Ltd.",
-      "//money.rediff.com/companies/ABC-Bearings-Ltd/14510001",
-      "505665",
-      "X"
-    ],
-    "row40": [
-      "ABC Gas (International) Ltd.",
-      "//money.rediff.com/companies/ABC-Gas-International-Ltd/15100001",
-      "513119",
-      "XT"
-    ],
-    "row41": [
-      "ABC India Ltd.",
-      "//money.rediff.com/companies/ABC-India-Ltd/16590004",
-      "520123",
-      "X"
-    ],
-    "row42": [
-      "ABG Shipyard Ltd.",
-      "//money.rediff.com/companies/ABG-Shipyard-Ltd/16680013",
-      "532682",
-      "Z"
-    ],
-    "row43": [
-      "Abhijit Trading Company Ltd.",
-      "//money.rediff.com/companies/Abhijit-Trading-Company-Ltd/11250632",
-      "539560",
-      "XT"
-    ],
-    "row44": [
-      "Abhinav Capital Services Ltd.",
-      "//money.rediff.com/companies/Abhinav-Capital-Services-Ltd/11610094",
-      "532057",
-      "XT"
-    ],
-    "row45": [
-      "Abhinav Leasing & Finance Ltd.",
-      "//money.rediff.com/companies/Abhinav-Leasing-Finance-Ltd/14060608",
-      "538952",
-      "XT"
-    ],
-    "row46": [
-      "Abhishek Corporation Ltd.",
-      "//money.rediff.com/companies/Abhishek-Corporation-Ltd/17010091",
-      "532831",
-      "Z"
-    ],
-    "row47": [
-      "Abhishek Finlease Ltd.",
-      "//money.rediff.com/companies/Abhishek-Finlease-Ltd/14060439",
-      "538935",
-      "XT"
-    ],
-    "row48": [
-      "Abhishek Infraventures Ltd.",
-      "//money.rediff.com/companies/Abhishek-Infraventures-Ltd/14090586",
-      "539544",
-      "X"
-    ],
-    "row49": [
-      "Abirami Financial Services (India) Ltd.",
-      "//money.rediff.com/companies/Abirami-Financial-Services-India-Ltd/14060200",
-      "511756",
-      "Z"
-    ],
-    "row50": [
-      "ABM Knowledgeware Ltd.",
-      "//money.rediff.com/companies/ABM-Knowledgeware-Ltd/14010055",
-      "531161",
-      "X"
-    ],
-    "row51": [
-      "ACC Ltd.",
-      "//money.rediff.com/companies/ACC-Ltd/11510001",
-      "500410",
-      "A"
-    ],
-    "row52": [
-      "ACCEL Ltd.",
-      "//money.rediff.com/companies/ACCEL-Ltd/13030005",
-      "517494",
-      "XT"
-    ],
-    "row53": [
-      "Accelya Solutions India Ltd.",
-      "//money.rediff.com/companies/Accelya-Solutions-India-Ltd/13020092",
-      "532268",
-      "B"
-    ],
-    "row54": [
-      "Accentia Technologies Ltd.",
-      "//money.rediff.com/companies/Accentia-Technologies-Ltd/16560092",
-      "531897",
-      "Z"
-    ],
-    "row55": [
-      "ACE Edutrend Ltd.",
-      "//money.rediff.com/companies/ACE-Edutrend-Ltd/14090122",
-      "530093",
-      "Z"
-    ],
-    "row56": [
-      "Ace Men Engg Works Ltd.",
-      "//money.rediff.com/companies/Ace-Men-Engg-Works-Ltd/11250633",
-      "539661",
-      "XT"
-    ],
-    "row57": [
-      "ACE Software Exports Ltd.",
-      "//money.rediff.com/companies/ACE-Software-Exports-Ltd/13020055",
-      "531525",
-      "X"
-    ],
-    "row58": [
-      "Ace Tours Worldwide Ltd.",
-      "//money.rediff.com/companies/Ace-Tours-Worldwide-Ltd/17150530",
-      "536492",
-      "MT"
-    ],
-    "row59": [
-      "Acewin Agriteck Ltd.",
-      "//money.rediff.com/companies/Acewin-Agriteck-Ltd/13192445",
-      "539570",
-      "M"
-    ],
-    "row60": [
-      "Achal Investments Ltd.",
-      "//money.rediff.com/companies/Achal-Investments-Ltd/14094295",
-      "538570",
-      "XT"
-    ],
-    "row61": [
-      "ACI Infocom Ltd.",
-      "//money.rediff.com/companies/ACI-Infocom-Ltd/13020013",
-      "517356",
-      "X"
-    ],
-    "row62": [
-      "ACIL Cotton Industries Ltd.",
-      "//money.rediff.com/companies/ACIL-Cotton-Industries-Ltd/16030126",
-      "530901",
-      "Z"
-    ],
-    "row63": [
-      "Acknit Industries Ltd.",
-      "//money.rediff.com/companies/Acknit-Industries-Ltd/16080019",
-      "530043",
-      "X"
-    ],
-    "row64": [
-      "Acme Resources Ltd.",
-      "//money.rediff.com/companies/Acme-Resources-Ltd/10990003",
-      "539391",
-      "X"
-    ],
-    "row65": [
-      "Acropetal Technologies Ltd.",
-      "//money.rediff.com/companies/Acropetal-Technologies-Ltd/13191577",
-      "533330",
-      "Z"
-    ],
-    "row66": [
-      "Acrow India Ltd.",
-      "//money.rediff.com/companies/Acrow-India-Ltd/11600001",
-      "513149",
-      "X"
-    ],
-    "row67": [
-      "Acrysil Ltd.",
-      "//money.rediff.com/companies/Acrysil-Ltd/12200001",
-      "524091",
-      "X"
-    ],
-    "row68": [
-      "Action Construction Equipment Ltd.",
-      "//money.rediff.com/companies/Action-Construction-Equipment-Ltd/13510065",
-      "532762",
-      "B"
-    ],
-    "row69": [
-      "Action Financial Services (India) Ltd.",
-      "//money.rediff.com/companies/Action-Financial-Services-India-Ltd/14090108",
-      "511706",
-      "X"
-    ],
-    "row70": [
-      "Active Clothing Co Ltd.",
-      "//money.rediff.com/companies/Active-Clothing-Co-Ltd/16490973",
-      "541144",
-      "M"
-    ],
-    "row71": [
-      "Ad-Manum Finance Ltd.",
-      "//money.rediff.com/companies/Ad-Manum-Finance-Ltd/14060105",
-      "511359",
-      "X"
-    ],
-    "row72": [
-      "Adani Enterprises Ltd.",
-      "//money.rediff.com/companies/Adani-Enterprises-Ltd/16610041",
-      "512599",
-      "A"
-    ],
-    "row73": [
-      "Adani Gas Ltd.",
-      "//money.rediff.com/companies/Adani-Gas-Ltd/17027894",
-      "542066",
-      "A"
-    ],
-    "row74": [
-      "Adani Green Energy Ltd.",
-      "//money.rediff.com/companies/Adani-Green-Energy-Ltd/15130762",
-      "541450",
-      "A"
-    ],
-    "row75": [
-      "Adani Ports & Special Economic Zone Ltd.",
-      "//money.rediff.com/companies/Adani-Ports-Special-Economic-Zone-Ltd/17025086",
-      "532921",
-      "A"
-    ],
-    "row76": [
-      "Adani Power Ltd.",
-      "//money.rediff.com/companies/Adani-Power-Ltd/16610491",
-      "533096",
-      "A"
-    ],
-    "row77": [
-      "Adani Transmission Ltd.",
-      "//money.rediff.com/companies/Adani-Transmission-Ltd/17152581",
-      "539254",
-      "A"
-    ],
-    "row78": [
-      "Adarsh Mercantile Ltd.",
-      "//money.rediff.com/companies/Adarsh-Mercantile-Ltd/11250449",
-      "538563",
-      "XT"
-    ],
-    "row79": [
-      "Adarsh Plant Protect Ltd.",
-      "//money.rediff.com/companies/Adarsh-Plant-Protect-Ltd/17020282",
-      "526711",
-      "XT"
-    ],
-    "row80": [
-      "ADC India Communications Ltd.",
-      "//money.rediff.com/companies/ADC-India-Communications-Ltd/15140012",
-      "523411",
-      "X"
-    ],
-    "row81": [
-      "Adcon Capital Services Ltd.",
-      "//money.rediff.com/companies/Adcon-Capital-Services-Ltd/14060186",
-      "539506",
-      "XT"
-    ],
-    "row82": [
-      "Add-Shop Promotions Ltd.",
-      "//money.rediff.com/companies/Add-Shop-Promotions-Ltd/17154037",
-      "541865",
-      "M"
-    ],
-    "row83": [
-      "Addi Industries Ltd.",
-      "//money.rediff.com/companies/Addi-Industries-Ltd/16080001",
-      "507852",
-      "X"
-    ],
-    "row84": [
-      "ADF Foods Ltd.",
-      "//money.rediff.com/companies/ADF-Foods-Ltd/11050075",
-      "519183",
-      "B"
-    ],
-    "row85": [
-      "Adharshila Capital Services Ltd.",
-      "//money.rediff.com/companies/Adharshila-Capital-Services-Ltd/14010206",
-      "539493",
-      "XT"
-    ],
-    "row86": [
-      "Adhbhut Infrastructure Ltd.",
-      "//money.rediff.com/companies/Adhbhut-Infrastructure-Ltd/17024119",
-      "539189",
-      "XT"
-    ],
-    "row87": [
-      "Adhiraj Distributors Ltd.",
-      "//money.rediff.com/companies/Adhiraj-Distributors-Ltd/11250503",
-      "780018",
-      "IP"
-    ],
-    "row88": [
-      "Adhunik Industries Ltd.",
-      "//money.rediff.com/companies/Adhunik-Industries-Ltd/15510266",
-      "538365",
-      "B"
-    ],
-    "row89": [
-      "Adhunik Metaliks Ltd.",
-      "//money.rediff.com/companies/Adhunik-Metaliks-Ltd/15560016",
-      "532727",
-      "Z"
-    ],
-    "row90": [
-      "Adinath Bio-Labs Ltd.",
-      "//money.rediff.com/companies/Adinath-Bio-Labs-Ltd/13190194",
-      "590088",
-      "XT"
-    ],
-    "row91": [
-      "Adinath Exim Resources Ltd.",
-      "//money.rediff.com/companies/Adinath-Exim-Resources-Ltd/16610076",
-      "532056",
-      "XT"
-    ],
-    "row92": [
-      "Adinath Textiles Ltd.",
-      "//money.rediff.com/companies/Adinath-Textiles-Ltd/16040001",
-      "514113",
-      "XT"
-    ],
-    "row93": [
-      "Aditri Industries Ltd.",
-      "//money.rediff.com/companies/Aditri-Industries-Ltd/16070128",
-      "534707",
-      "B"
-    ],
-    "row94": [
-      "Aditya Birla Capital Ltd.",
-      "//money.rediff.com/companies/Aditya-Birla-Capital-Ltd/14094863",
-      "540691",
-      "A"
-    ],
-    "row95": [
-      "Aditya Birla Fashion and Retail Ltd.",
-      "//money.rediff.com/companies/Aditya-Birla-Fashion-and-Retail-Ltd/10770005",
-      "535755",
-      "A"
-    ],
-    "row96": [
-      "Aditya Birla Money Ltd.",
-      "//money.rediff.com/companies/Aditya-Birla-Money-Ltd/14010479",
-      "532974",
-      "B"
-    ],
-    "row97": [
-      "Aditya Birla Nuvo Ltd.(Amalgamated)",
-      "//money.rediff.com/companies/Aditya-Birla-Nuvo-Ltd-Amalgamated/17010009",
-      "500303",
-      "A"
-    ],
-    "row98": [
-      "Aditya Consumer Marketing Ltd.",
-      "//money.rediff.com/companies/Aditya-Consumer-Marketing-Ltd/10760026",
-      "540146",
-      "M"
-    ],
-    "row99": [
-      "Aditya Forge Ltd.",
-      "//money.rediff.com/companies/Aditya-Forge-Ltd/13560031",
-      "522150",
-      "Z"
-    ],
-    "row100": [
-      "Aditya Ispat Ltd.",
-      "//money.rediff.com/companies/Aditya-Ispat-Ltd/15520032",
-      "513513",
-      "X"
-    ],
-    "row101": [
-      "Aditya Spinners Ltd.",
-      "//money.rediff.com/companies/Aditya-Spinners-Ltd/16030035",
-      "521141",
-      "XT"
-    ]
+    "Company": ["Code", "Group"],
+    "20 Microns Ltd.": ["533022", "B"],
+    "3i Infotech Ltd.": ["532628", "B"],
+    "3M India Ltd.": ["523395", "A"],
+    "3P Land Holdings Ltd.": ["516092", "B"],
+    "52 Weeks Entertainment Ltd.": ["531925", "XT"],
+    "5Paisa Capital Ltd.": ["540776", "B"],
+    "63 Moons Technologies Ltd.": ["526881", "B"],
+    "7NR Retail Ltd.": ["540615", "B"],
+    "7Seas Entertainment Ltd.": ["540874", "Z"],
+    "8K Miles Software Services Ltd.": ["512161", "Z"],
+    "A & M Febcon Ltd.": ["540697", "M"],
+    "A F Enterprises Ltd.": ["538351", "XT"],
+    "A Infrastructure Ltd.": ["539620", "XT"],
+    "A-1 Acid Ltd.": ["542012", "M"],
+    "A2Z Infra Engineering Ltd.": ["533292", "B"],
+    "Aadhaar Ventures India Ltd.": ["531611", "XT"],
+    "Aadi Industries Ltd.": ["530027", "Z"],
+    "Aagam Capital Ltd.": ["531866", "XD"],
+    "Aananda Lakshmi Spinning Mills Ltd.": ["539096", "XT"],
+    "Aanchal Ispat Ltd.": ["538812", "B"],
+    "AAR Commercial Company Ltd.": ["539632", "XT"],
+    "Aar Shyam India Investment Company Ltd.": ["542377", "XT"],
+    "Aarcon Facilities Ltd.": ["532024", "P"],
+    "Aarey Drugs & Pharmaceuticals Ltd.": ["524412", "X"],
+    "Aarnav Fashions Ltd.": ["539562", "XT"],
+    "Aartech Solonics Ltd.": ["542580", "M"],
+    "Aarti Drugs Ltd.": ["524348", "B"],
+    "Aarti Industries Ltd.": ["524208", "A"],
+    "Aarv Infratel Ltd.": ["526488", "P"],
+    "Aarvee Denims and Exports Ltd.": ["514274", "B"],
+    "Aaswa Trading & Exports Ltd.": ["512038", "P"],
+    "Aavas Financiers Ltd.": ["541988", "A"],
+    "Aayush Food & Herbs Ltd.": ["539528", "X"],
+    "Abacus Computers Ltd.": ["508987", "Z"],
+    "Aban Offshore Ltd.": ["523204", "B"],
+    "ABB India Ltd.": ["500002", "B"],
+    "Abbott India Ltd.": ["500488", "A"],
+    "ABC Bearings Ltd.": ["505665", "X"],
+    "ABC Gas (International) Ltd.": ["513119", "XT"],
+    "ABC India Ltd.": ["520123", "X"],
+    "ABG Shipyard Ltd.": ["532682", "Z"],
+    "Abhijit Trading Company Ltd.": ["539560", "XT"],
+    "Abhinav Capital Services Ltd.": ["532057", "XT"],
+    "Abhinav Leasing & Finance Ltd.": ["538952", "XT"],
+    "Abhishek Corporation Ltd.": ["532831", "Z"],
+    "Abhishek Finlease Ltd.": ["538935", "XT"],
+    "Abhishek Infraventures Ltd.": ["539544", "X"],
+    "Abirami Financial Services (India) Ltd.": ["511756", "Z"],
+    "ABM Knowledgeware Ltd.": ["531161", "X"],
+    "ACC Ltd.": ["500410", "A"],
+    "ACCEL Ltd.": ["517494", "XT"],
+    "Accelya Solutions India Ltd.": ["532268", "B"],
+    "Accentia Technologies Ltd.": ["531897", "Z"],
+    "ACE Edutrend Ltd.": ["530093", "Z"],
+    "Ace Men Engg Works Ltd.": ["539661", "XT"],
+    "ACE Software Exports Ltd.": ["531525", "X"],
+    "Ace Tours Worldwide Ltd.": ["536492", "MT"],
+    "Acewin Agriteck Ltd.": ["539570", "M"],
+    "Achal Investments Ltd.": ["538570", "XT"],
+    "ACI Infocom Ltd.": ["517356", "X"],
+    "ACIL Cotton Industries Ltd.": ["530901", "Z"],
+    "Acknit Industries Ltd.": ["530043", "X"],
+    "Acme Resources Ltd.": ["539391", "X"],
+    "Acropetal Technologies Ltd.": ["533330", "Z"],
+    "Acrow India Ltd.": ["513149", "X"],
+    "Acrysil Ltd.": ["524091", "X"],
+    "Action Construction Equipment Ltd.": ["532762", "B"],
+    "Action Financial Services (India) Ltd.": ["511706", "X"],
+    "Active Clothing Co Ltd.": ["541144", "M"],
+    "Ad-Manum Finance Ltd.": ["511359", "X"],
+    "Adani Enterprises Ltd.": ["512599", "A"],
+    "Adani Gas Ltd.": ["542066", "A"],
+    "Adani Green Energy Ltd.": ["541450", "A"],
+    "Adani Ports & Special Economic Zone Ltd.": ["532921", "A"],
+    "Adani Power Ltd.": ["533096", "A"],
+    "Adani Transmission Ltd.": ["539254", "A"],
+    "Adarsh Mercantile Ltd.": ["538563", "XT"],
+    "Adarsh Plant Protect Ltd.": ["526711", "XT"],
+    "ADC India Communications Ltd.": ["523411", "X"],
+    "Adcon Capital Services Ltd.": ["539506", "XT"],
+    "Add-Shop Promotions Ltd.": ["541865", "M"],
+    "Addi Industries Ltd.": ["507852", "X"],
+    "ADF Foods Ltd.": ["519183", "B"],
+    "Adharshila Capital Services Ltd.": ["539493", "XT"],
+    "Adhbhut Infrastructure Ltd.": ["539189", "XT"],
+    "Adhiraj Distributors Ltd.": ["780018", "IP"],
+    "Adhunik Industries Ltd.": ["538365", "B"],
+    "Adhunik Metaliks Ltd.": ["532727", "Z"],
+    "Adinath Bio-Labs Ltd.": ["590088", "XT"],
+    "Adinath Exim Resources Ltd.": ["532056", "XT"],
+    "Adinath Textiles Ltd.": ["514113", "XT"],
+    "Aditri Industries Ltd.": ["534707", "B"],
+    "Aditya Birla Capital Ltd.": ["540691", "A"],
+    "Aditya Birla Fashion and Retail Ltd.": ["535755", "A"],
+    "Aditya Birla Money Ltd.": ["532974", "B"],
+    "Aditya Birla Nuvo Ltd.(Amalgamated)": ["500303", "A"],
+    "Aditya Consumer Marketing Ltd.": ["540146", "M"],
+    "Aditya Forge Ltd.": ["522150", "Z"],
+    "Aditya Ispat Ltd.": ["513513", "X"],
+    "Aditya Spinners Ltd.": ["521141", "XT"]
   },
   "table2": {
-    "row1": ["Company", "Code", "Group"],
-    "row2": [
-      "Aditya Vision Ltd.",
-      "//money.rediff.com/companies/Aditya-Vision-Ltd/10740002",
-      "540205",
-      "M"
-    ],
-    "row3": [
-      "Adlabs Entertainment Ltd.",
-      "//money.rediff.com/companies/Adlabs-Entertainment-Ltd/17040842",
-      "539056",
-      "T"
-    ],
-    "row4": [
-      "Ador Fontech Ltd.",
-      "//money.rediff.com/companies/Ador-Fontech-Ltd/13590002",
-      "530431",
-      "X"
-    ],
-    "row5": [
-      "Ador Multiproducts Ltd.",
-      "//money.rediff.com/companies/Ador-Multiproducts-Ltd/12520015",
-      "523120",
-      "X"
-    ],
-    "row6": [
-      "Ador Welding Ltd.",
-      "//money.rediff.com/companies/Ador-Welding-Ltd/13580001",
-      "517041",
-      "B"
-    ],
-    "row7": [
-      "Adroit Infotech Ltd.",
-      "//money.rediff.com/companies/Adroit-Infotech-Ltd/15070005.01",
-      "532172",
-      "T"
-    ],
-    "row8": [
-      "ADS Diagnostic Ltd.",
-      "//money.rediff.com/companies/ADS-Diagnostic-Ltd/16550007",
-      "523031",
-      "P"
-    ],
-    "row9": [
-      "Advance Lifestyles Ltd.",
-      "//money.rediff.com/companies/Advance-Lifestyles-Ltd/16030036",
-      "521048",
-      "Z"
-    ],
-    "row10": [
-      "Advance Metering Technology Ltd.",
-      "//money.rediff.com/companies/Advance-Metering-Technology-Ltd/15150058",
-      "534612",
-      "XT"
-    ],
-    "row11": [
-      "Advance Multitech Ltd.",
-      "//money.rediff.com/companies/Advance-Multitech-Ltd/14610014",
-      "526331",
-      "P"
-    ],
-    "row12": [
-      "Advance Petrochemicals Ltd.",
-      "//money.rediff.com/companies/Advance-Petrochemicals-Ltd/12130002",
-      "506947",
-      "P"
-    ],
-    "row13": [
-      "Advance Powerinfra Tech Ltd.",
-      "//money.rediff.com/companies/Advance-Powerinfra-Tech-Ltd/14060310",
-      "531047",
-      "Z"
-    ],
-    "row14": [
-      "Advance Syntex Ltd.",
-      "//money.rediff.com/companies/Advance-Syntex-Ltd/16490517",
-      "539982",
-      "B"
-    ],
-    "row15": [
-      "Advanced Enzyme Technologies Ltd.",
-      "//money.rediff.com/companies/Advanced-Enzyme-Technologies-Ltd/11180007",
-      "540025",
-      "A"
-    ],
-    "row16": [
-      "Advanced Micronic Devices Ltd.",
-      "//money.rediff.com/companies/Advanced-Micronic-Devices-Ltd/13160006",
-      "517552",
-      "Z"
-    ],
-    "row17": [
-      "Advani Hotels & Resorts (India) Ltd.",
-      "//money.rediff.com/companies/Advani-Hotels-Resorts-India-Ltd/16560013",
-      "523269",
-      "B"
-    ],
-    "row18": [
-      "Advent Computer Services Ltd.",
-      "//money.rediff.com/companies/Advent-Computer-Services-Ltd/13020053",
-      "531429",
-      "XT"
-    ],
-    "row19": [
-      "Advik Capital Ltd.",
-      "//money.rediff.com/companies/Advik-Capital-Ltd/14010940",
-      "539773",
-      "X"
-    ],
-    "row20": [
-      "Advik Laboratories Ltd.",
-      "//money.rediff.com/companies/Advik-Laboratories-Ltd/12540332",
-      "531686",
-      "XT"
-    ],
-    "row21": [
-      "Advitiya Trade India Ltd.",
-      "//money.rediff.com/companies/Advitiya-Trade-India-Ltd/11250726",
-      "541152",
-      "M"
-    ],
-    "row22": [
-      "Aegis Logistics Ltd.",
-      "//money.rediff.com/companies/Aegis-Logistics-Ltd/12040001",
-      "500003",
-      "A"
-    ],
-    "row23": [
-      "Aeonian Investments Company Ltd.",
-      "//money.rediff.com/companies/Aeonian-Investments-Company-Ltd/14090343",
-      "503655",
-      "XD"
-    ],
-    "row24": [
-      "Affle (India) Ltd.",
-      "//money.rediff.com/companies/Affle-India-Ltd/14094934",
-      "542752",
-      "B"
-    ],
-    "row25": [
-      "Affordable Robotic & Automation Ltd.",
-      "//money.rediff.com/companies/Affordable-Robotic-Automation-Ltd/16690603",
-      "541402",
-      "M"
-    ],
-    "row26": [
-      "Aftek Ltd.",
-      "//money.rediff.com/companies/Aftek-Ltd/13030008",
-      "530707",
-      "Z"
-    ],
-    "row27": [
-      "Agarwal Industrial Corporation Ltd.",
-      "//money.rediff.com/companies/Agarwal-Industrial-Corporation-Ltd/16590027",
-      "531921",
-      "B"
-    ],
-    "row28": [
-      "AGC Networks Ltd.",
-      "//money.rediff.com/companies/AGC-Networks-Ltd/15140006",
-      "500463",
-      "B"
-    ],
-    "row29": [
-      "AGI Infra Ltd.",
-      "//money.rediff.com/companies/AGI-Infra-Ltd/11622776",
-      "539042",
-      "T"
-    ],
-    "row30": [
-      "Agio Paper & Industries Ltd.",
-      "//money.rediff.com/companies/Agio-Paper-Industries-Ltd/16530008",
-      "516020",
-      "X"
-    ],
-    "row31": [
-      "Agri-Tech (India) Ltd.",
-      "//money.rediff.com/companies/Agri-Tech-India-Ltd/11140091",
-      "537292",
-      "B"
-    ],
-    "row32": [
-      "Agrimony Commodities Ltd.",
-      "//money.rediff.com/companies/Agrimony-Commodities-Ltd/11250343",
-      "537492",
-      "M"
-    ],
-    "row33": [
-      "Agro Tech Foods Ltd.",
-      "//money.rediff.com/companies/Agro-Tech-Foods-Ltd/11070036",
-      "500215",
-      "B"
-    ],
-    "row34": [
-      "Ahluwalia Contracts (India) Ltd.",
-      "//money.rediff.com/companies/Ahluwalia-Contracts-India-Ltd/11600049",
-      "532811",
-      "B"
-    ],
-    "row35": [
-      "Ahmedabad Steelcraft Ltd.",
-      "//money.rediff.com/companies/Ahmedabad-Steelcraft-Ltd/15990001",
-      "522273",
-      "XT"
-    ],
-    "row36": [
-      "AI Champdany Industries Ltd.",
-      "//money.rediff.com/companies/AI-Champdany-Industries-Ltd/17020074",
-      "532806",
-      "XT"
-    ],
-    "row37": [
-      "AIA Engineering Ltd.",
-      "//money.rediff.com/companies/AIA-Engineering-Ltd/13510066",
-      "532683",
-      "A"
-    ],
-    "row38": [
-      "Aikyam Intellectual Property Consultancy Ltd.",
-      "//money.rediff.com/companies/Aikyam-Intellectual-Property-Consultancy-Ltd/12200014",
-      "506822",
-      "XD"
-    ],
-    "row39": [
-      "Aimco Pesticides Ltd.",
-      "//money.rediff.com/companies/Aimco-Pesticides-Ltd/12120014",
-      "524288",
-      "X"
-    ],
-    "row40": [
-      "Aishwarya Technologies And Telecom Ltd.",
-      "//money.rediff.com/companies/Aishwarya-Technologies-And-Telecom-Ltd/15140085",
-      "532975",
-      "Z"
-    ],
-    "row41": [
-      "Ajanta Pharma Ltd.",
-      "//money.rediff.com/companies/Ajanta-Pharma-Ltd/12540406",
-      "532331",
-      "A"
-    ],
-    "row42": [
-      "Ajanta Soya Ltd.",
-      "//money.rediff.com/companies/Ajanta-Soya-Ltd/11070049",
-      "519216",
-      "X"
-    ],
-    "row43": [
-      "Ajcon Global Services Ltd.",
-      "//money.rediff.com/companies/Ajcon-Global-Services-Ltd/14090105",
-      "511692",
-      "XT"
-    ],
-    "row44": [
-      "Ajel Ltd.",
-      "//money.rediff.com/companies/Ajel-Ltd/14010034",
-      "530713",
-      "X"
-    ],
-    "row45": [
-      "Ajmera Realty & Infra India Ltd.",
-      "//money.rediff.com/companies/Ajmera-Realty-Infra-India-Ltd/15550007",
-      "513349",
-      "B"
-    ],
-    "row46": [
-      "Ajwa Fun World & Resorts Ltd.",
-      "//money.rediff.com/companies/Ajwa-Fun-World-Resorts-Ltd/17020245",
-      "526628",
-      "P"
-    ],
-    "row47": [
-      "AK Capital Services Ltd.",
-      "//money.rediff.com/companies/AK-Capital-Services-Ltd/14010218",
-      "530499",
-      "X"
-    ],
-    "row48": [
-      "AK Spintex Ltd.",
-      "//money.rediff.com/companies/AK-Spintex-Ltd/16020128",
-      "539300",
-      "X"
-    ],
-    "row49": [
-      "Akar Auto Industries Ltd.",
-      "//money.rediff.com/companies/Akar-Auto-Industries-Ltd/13620038",
-      "530621",
-      "X"
-    ],
-    "row50": [
-      "Akashdeep Metal Industries Ltd.",
-      "//money.rediff.com/companies/Akashdeep-Metal-Industries-Ltd/14011054",
-      "538778",
-      "X"
-    ],
-    "row51": [
-      "Aki India Ltd.",
-      "//money.rediff.com/companies/Aki-India-Ltd/16510126",
-      "542020",
-      "M"
-    ],
-    "row52": [
-      "AKM Lace and Embrotex Ltd.",
-      "//money.rediff.com/companies/AKM-Lace-and-Embrotex-Ltd/16490968",
-      "540718",
-      "M"
-    ],
-    "row53": [
-      "Akme Star Housing Finance Ltd.",
-      "//money.rediff.com/companies/Akme-Star-Housing-Finance-Ltd/14080153",
-      "539017",
-      "B"
-    ],
-    "row54": [
-      "Aksh Optifibre Ltd.",
-      "//money.rediff.com/companies/Aksh-Optifibre-Ltd/15050048",
-      "532351",
-      "B"
-    ],
-    "row55": [
-      "Akshar Spintex Ltd.",
-      "//money.rediff.com/companies/Akshar-Spintex-Ltd/16030297",
-      "541303",
-      "M"
-    ],
-    "row56": [
-      "AksharChem (India) Ltd.",
-      "//money.rediff.com/companies/AksharChem-India-Ltd/16090038",
-      "524598",
-      "B"
-    ],
-    "row57": [
-      "Akzo Nobel India Ltd.",
-      "//money.rediff.com/companies/Akzo-Nobel-India-Ltd/17010008",
-      "500710",
-      "A"
-    ],
-    "row58": [
-      "Alacrity Securities Ltd.",
-      "//money.rediff.com/companies/Alacrity-Securities-Ltd/14093693",
-      "535916",
-      "M"
-    ],
-    "row59": [
-      "Alan Scott Industries Ltd.",
-      "//money.rediff.com/companies/Alan-Scott-Industries-Ltd/17024105",
-      "539115",
-      "XT"
-    ],
-    "row60": [
-      "Alang Industrial Gases Ltd.",
-      "//money.rediff.com/companies/Alang-Industrial-Gases-Ltd/14560029",
-      "531517",
-      "XD"
-    ],
-    "row61": [
-      "Alang Marine Ltd.",
-      "//money.rediff.com/companies/Alang-Marine-Ltd/13520101",
-      "520133",
-      "Y"
-    ],
-    "row62": [
-      "Alankit Ltd.",
-      "//money.rediff.com/companies/Alankit-Ltd/15070035",
-      "531082",
-      "B"
-    ],
-    "row63": [
-      "Albert David Ltd.",
-      "//money.rediff.com/companies/Albert-David-Ltd/12540053",
-      "524075",
-      "B"
-    ],
-    "row64": [
-      "Alchemist Corporation Ltd.",
-      "//money.rediff.com/companies/Alchemist-Corporation-Ltd/16030148",
-      "531409",
-      "X"
-    ],
-    "row65": [
-      "Alchemist Ltd.",
-      "//money.rediff.com/companies/Alchemist-Ltd/15600034",
-      "526707",
-      "T"
-    ],
-    "row66": [
-      "Alchemist Realty Ltd.",
-      "//money.rediff.com/companies/Alchemist-Realty-Ltd/17010059",
-      "532114",
-      "X"
-    ],
-    "row67": [
-      "Alembic Ltd.",
-      "//money.rediff.com/companies/Alembic-Ltd/12540002",
-      "506235",
-      "B"
-    ],
-    "row68": [
-      "Alembic Pharmaceuticals Ltd.",
-      "//money.rediff.com/companies/Alembic-Pharmaceuticals-Ltd/12540995",
-      "533573",
-      "A"
-    ],
-    "row69": [
-      "Alexander Stamps and Coin Ltd.",
-      "//money.rediff.com/companies/Alexander-Stamps-and-Coin-Ltd/14060174",
-      "511463",
-      "X"
-    ],
-    "row70": [
-      "Alfa Ica (India) Ltd.",
-      "//money.rediff.com/companies/Alfa-Ica-India-Ltd/11570005",
-      "530973",
-      "XT"
-    ],
-    "row71": [
-      "Alfa Transformers Ltd.",
-      "//money.rediff.com/companies/Alfa-Transformers-Ltd/13140015",
-      "517546",
-      "X"
-    ],
-    "row72": [
-      "Alfavision Overseas (India) Ltd.",
-      "//money.rediff.com/companies/Alfavision-Overseas-India-Ltd/14060332",
-      "531156",
-      "X"
-    ],
-    "row73": [
-      "Alfred Herbert (India) Ltd.",
-      "//money.rediff.com/companies/Alfred-Herbert-India-Ltd/13520030",
-      "505216",
-      "X"
-    ],
-    "row74": [
-      "Alicon Castalloy Ltd.",
-      "//money.rediff.com/companies/Alicon-Castalloy-Ltd/13560079",
-      "531147",
-      "B"
-    ],
-    "row75": [
-      "Alka Diamond Industries Ltd.",
-      "//money.rediff.com/companies/Alka-Diamond-Industries-Ltd/15070043",
-      "531581",
-      "Z"
-    ],
-    "row76": [
-      "Alka India Ltd.",
-      "//money.rediff.com/companies/Alka-India-Ltd/16040089",
-      "530889",
-      "XT"
-    ],
-    "row77": [
-      "Alka Securities Ltd.",
-      "//money.rediff.com/companies/Alka-Securities-Ltd/14090396",
-      "532166",
-      "XT"
-    ],
-    "row78": [
-      "Alkali Metals Ltd.",
-      "//money.rediff.com/companies/Alkali-Metals-Ltd/12060043",
-      "533029",
-      "B"
-    ],
-    "row79": [
-      "Alkem Laboratories Ltd.",
-      "//money.rediff.com/companies/Alkem-Laboratories-Ltd/12540464",
-      "539523",
-      "A"
-    ],
-    "row80": [
-      "Alkyl Amines Chemicals Ltd.",
-      "//money.rediff.com/companies/Alkyl-Amines-Chemicals-Ltd/12070001",
-      "506767",
-      "B"
-    ],
-    "row81": [
-      "Allahabad Bank",
-      "//money.rediff.com/companies/Allahabad-Bank/14030009",
-      "532480",
-      "A"
-    ],
-    "row82": [
-      "Allcargo Logistics Ltd.",
-      "//money.rediff.com/companies/Allcargo-Logistics-Ltd/17110005",
-      "532749",
-      "B"
-    ],
-    "row83": [
-      "Alliance Integrated Metaliks Ltd.",
-      "//money.rediff.com/companies/Alliance-Integrated-Metaliks-Ltd/14090510",
-      "534064",
-      "Z"
-    ],
-    "row84": [
-      "Allied Computers International (Asia) Ltd.",
-      "//money.rediff.com/companies/Allied-Computers-International-Asia-Ltd/13010058",
-      "532919",
-      "XT"
-    ],
-    "row85": [
-      "Allied Digital Services Ltd.",
-      "//money.rediff.com/companies/Allied-Digital-Services-Ltd/13240040",
-      "532875",
-      "T"
-    ],
-    "row86": [
-      "Allied Herbals Ltd.",
-      "//money.rediff.com/companies/Allied-Herbals-Ltd/14060078",
-      "523030",
-      "Z"
-    ],
-    "row87": [
-      "Allsec Technologies Ltd.",
-      "//money.rediff.com/companies/Allsec-Technologies-Ltd/13240027",
-      "532633",
-      "B"
-    ],
-    "row88": [
-      "Almondz Global Securities Ltd.",
-      "//money.rediff.com/companies/Almondz-Global-Securities-Ltd/14090206",
-      "531400",
-      "B"
-    ],
-    "row89": [
-      "Alna Trading & Exports Ltd.",
-      "//money.rediff.com/companies/Alna-Trading-Exports-Ltd/16610192",
-      "506120",
-      "P"
-    ],
-    "row90": [
-      "Alok Industries Ltd.",
-      "//money.rediff.com/companies/Alok-Industries-Ltd/16010040",
-      "521070",
-      "T"
-    ],
-    "row91": [
-      "Alora Trading Company Ltd.",
-      "//money.rediff.com/companies/Alora-Trading-Company-Ltd/11250637",
-      "539693",
-      "Z"
-    ],
-    "row92": [
-      "Alpa Laboratories Ltd.",
-      "//money.rediff.com/companies/Alpa-Laboratories-Ltd/12540643",
-      "532878",
-      "B"
-    ],
-    "row93": [
-      "Alpha Graphic India Ltd.",
-      "//money.rediff.com/companies/Alpha-Graphic-India-Ltd/17020387",
-      "531720",
-      "XD"
-    ],
-    "row94": [
-      "Alpha Hi-Tech Fuel Ltd.",
-      "//money.rediff.com/companies/Alpha-Hi-Tech-Fuel-Ltd/15110015",
-      "531247",
-      "XT"
-    ],
-    "row95": [
-      "Alphageo (India) Ltd.",
-      "//money.rediff.com/companies/Alphageo-India-Ltd/17020072",
-      "526397",
-      "B"
-    ],
-    "row96": [
-      "Alphalogic Techsys Ltd.",
-      "//money.rediff.com/companies/Alphalogic-Techsys-Ltd/13192706",
-      "542770",
-      "MS"
-    ],
-    "row97": [
-      "Alpine Housing Development Corporation Ltd.",
-      "//money.rediff.com/companies/Alpine-Housing-Development-Corporation-Ltd/11610120",
-      "526519",
-      "X"
-    ],
-    "row98": [
-      "Alps Industries Ltd.",
-      "//money.rediff.com/companies/Alps-Industries-Ltd/17020322",
-      "530715",
-      "T"
-    ],
-    "row99": [
-      "Alps Motor Finance Ltd.",
-      "//money.rediff.com/companies/Alps-Motor-Finance-Ltd/14060438",
-      "538423",
-      "XT"
-    ],
-    "row100": [
-      "Alstone Textiles (India) Ltd.",
-      "//money.rediff.com/companies/Alstone-Textiles-India-Ltd/14094545",
-      "539277",
-      "XT"
-    ],
-    "row101": [
-      "Alufluoride Ltd.",
-      "//money.rediff.com/companies/Alufluoride-Ltd/12080040",
-      "524634",
-      "X"
-    ]
+    "Company": ["Code", "Group"],
+    "Aditya Vision Ltd.": ["540205", "M"],
+    "Adlabs Entertainment Ltd.": ["539056", "T"],
+    "Ador Fontech Ltd.": ["530431", "X"],
+    "Ador Multiproducts Ltd.": ["523120", "X"],
+    "Ador Welding Ltd.": ["517041", "B"],
+    "Adroit Infotech Ltd.": ["532172", "T"],
+    "ADS Diagnostic Ltd.": ["523031", "P"],
+    "Advance Lifestyles Ltd.": ["521048", "Z"],
+    "Advance Metering Technology Ltd.": ["534612", "XT"],
+    "Advance Multitech Ltd.": ["526331", "P"],
+    "Advance Petrochemicals Ltd.": ["506947", "P"],
+    "Advance Powerinfra Tech Ltd.": ["531047", "Z"],
+    "Advance Syntex Ltd.": ["539982", "B"],
+    "Advanced Enzyme Technologies Ltd.": ["540025", "A"],
+    "Advanced Micronic Devices Ltd.": ["517552", "Z"],
+    "Advani Hotels & Resorts (India) Ltd.": ["523269", "B"],
+    "Advent Computer Services Ltd.": ["531429", "XT"],
+    "Advik Capital Ltd.": ["539773", "X"],
+    "Advik Laboratories Ltd.": ["531686", "XT"],
+    "Advitiya Trade India Ltd.": ["541152", "M"],
+    "Aegis Logistics Ltd.": ["500003", "A"],
+    "Aeonian Investments Company Ltd.": ["503655", "XD"],
+    "Affle (India) Ltd.": ["542752", "B"],
+    "Affordable Robotic & Automation Ltd.": ["541402", "M"],
+    "Aftek Ltd.": ["530707", "Z"],
+    "Agarwal Industrial Corporation Ltd.": ["531921", "B"],
+    "AGC Networks Ltd.": ["500463", "B"],
+    "AGI Infra Ltd.": ["539042", "T"],
+    "Agio Paper & Industries Ltd.": ["516020", "X"],
+    "Agri-Tech (India) Ltd.": ["537292", "B"],
+    "Agrimony Commodities Ltd.": ["537492", "M"],
+    "Agro Tech Foods Ltd.": ["500215", "B"],
+    "Ahluwalia Contracts (India) Ltd.": ["532811", "B"],
+    "Ahmedabad Steelcraft Ltd.": ["522273", "XT"],
+    "AI Champdany Industries Ltd.": ["532806", "XT"],
+    "AIA Engineering Ltd.": ["532683", "A"],
+    "Aikyam Intellectual Property Consultancy Ltd.": ["506822", "XD"],
+    "Aimco Pesticides Ltd.": ["524288", "X"],
+    "Aishwarya Technologies And Telecom Ltd.": ["532975", "Z"],
+    "Ajanta Pharma Ltd.": ["532331", "A"],
+    "Ajanta Soya Ltd.": ["519216", "X"],
+    "Ajcon Global Services Ltd.": ["511692", "XT"],
+    "Ajel Ltd.": ["530713", "X"],
+    "Ajmera Realty & Infra India Ltd.": ["513349", "B"],
+    "Ajwa Fun World & Resorts Ltd.": ["526628", "P"],
+    "AK Capital Services Ltd.": ["530499", "X"],
+    "AK Spintex Ltd.": ["539300", "X"],
+    "Akar Auto Industries Ltd.": ["530621", "X"],
+    "Akashdeep Metal Industries Ltd.": ["538778", "X"],
+    "Aki India Ltd.": ["542020", "M"],
+    "AKM Lace and Embrotex Ltd.": ["540718", "M"],
+    "Akme Star Housing Finance Ltd.": ["539017", "B"],
+    "Aksh Optifibre Ltd.": ["532351", "B"],
+    "Akshar Spintex Ltd.": ["541303", "M"],
+    "AksharChem (India) Ltd.": ["524598", "B"],
+    "Akzo Nobel India Ltd.": ["500710", "A"],
+    "Alacrity Securities Ltd.": ["535916", "M"],
+    "Alan Scott Industries Ltd.": ["539115", "XT"],
+    "Alang Industrial Gases Ltd.": ["531517", "XD"],
+    "Alang Marine Ltd.": ["520133", "Y"],
+    "Alankit Ltd.": ["531082", "B"],
+    "Albert David Ltd.": ["524075", "B"],
+    "Alchemist Corporation Ltd.": ["531409", "X"],
+    "Alchemist Ltd.": ["526707", "T"],
+    "Alchemist Realty Ltd.": ["532114", "X"],
+    "Alembic Ltd.": ["506235", "B"],
+    "Alembic Pharmaceuticals Ltd.": ["533573", "A"],
+    "Alexander Stamps and Coin Ltd.": ["511463", "X"],
+    "Alfa Ica (India) Ltd.": ["530973", "XT"],
+    "Alfa Transformers Ltd.": ["517546", "X"],
+    "Alfavision Overseas (India) Ltd.": ["531156", "X"],
+    "Alfred Herbert (India) Ltd.": ["505216", "X"],
+    "Alicon Castalloy Ltd.": ["531147", "B"],
+    "Alka Diamond Industries Ltd.": ["531581", "Z"],
+    "Alka India Ltd.": ["530889", "XT"],
+    "Alka Securities Ltd.": ["532166", "XT"],
+    "Alkali Metals Ltd.": ["533029", "B"],
+    "Alkem Laboratories Ltd.": ["539523", "A"],
+    "Alkyl Amines Chemicals Ltd.": ["506767", "B"],
+    "Allahabad Bank": ["532480", "A"],
+    "Allcargo Logistics Ltd.": ["532749", "B"],
+    "Alliance Integrated Metaliks Ltd.": ["534064", "Z"],
+    "Allied Computers International (Asia) Ltd.": ["532919", "XT"],
+    "Allied Digital Services Ltd.": ["532875", "T"],
+    "Allied Herbals Ltd.": ["523030", "Z"],
+    "Allsec Technologies Ltd.": ["532633", "B"],
+    "Almondz Global Securities Ltd.": ["531400", "B"],
+    "Alna Trading & Exports Ltd.": ["506120", "P"],
+    "Alok Industries Ltd.": ["521070", "T"],
+    "Alora Trading Company Ltd.": ["539693", "Z"],
+    "Alpa Laboratories Ltd.": ["532878", "B"],
+    "Alpha Graphic India Ltd.": ["531720", "XD"],
+    "Alpha Hi-Tech Fuel Ltd.": ["531247", "XT"],
+    "Alphageo (India) Ltd.": ["526397", "B"],
+    "Alphalogic Techsys Ltd.": ["542770", "MS"],
+    "Alpine Housing Development Corporation Ltd.": ["526519", "X"],
+    "Alps Industries Ltd.": ["530715", "T"],
+    "Alps Motor Finance Ltd.": ["538423", "XT"],
+    "Alstone Textiles (India) Ltd.": ["539277", "XT"],
+    "Alufluoride Ltd.": ["524634", "X"]
   }
 }
